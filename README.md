@@ -8,7 +8,7 @@
 </div>
 
 ###
-<h3 align="left">Tech Stack 🖥️.</h3>
+<h3 align="left">💻Tech Stack:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -24,7 +24,7 @@
 </div>
 
 ###
-<h3 align="left">Social Links 🔗.</h3>
+<h3 align="left">🔗Social Links:</h3>
 <div align="left">
   <a href="sahanachaudhary2610@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
