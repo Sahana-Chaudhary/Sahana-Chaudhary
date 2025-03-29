@@ -35,13 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sahana-Chaudhary/Sahana-Chaudhary/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
