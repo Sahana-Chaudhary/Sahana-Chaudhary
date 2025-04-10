@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Sahana, and I'm exploring the world of Data Analytics...📊.</h3>
+<h3 align="left">Hi 👋! I'm Sahana, and I'm exploring the world of Data Analytics📊.</h3>
 
 ###
 
